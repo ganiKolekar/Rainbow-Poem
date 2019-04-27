@@ -7,6 +7,7 @@ green
 green
 color 
 color 2
+master colors
 
 these are colors of the rainbow.
 and the unicorn
