@@ -1,4 +1,4 @@
-The rainbow poem
+The rainbow and unicorn
 
 purple
 pink
@@ -9,3 +9,4 @@ color
 color 2
 
 these are colors of the rainbow.
+and the unicorn
