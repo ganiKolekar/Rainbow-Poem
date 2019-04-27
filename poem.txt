@@ -6,5 +6,6 @@ orange
 green
 green
 color 
+color 2
 
 these are colors of the rainbow.
